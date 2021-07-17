@@ -4,13 +4,9 @@ This repository contains the code and assets needed to add the Source Engine Ali
 
 ## ⭐ About
 
-The Game Instructor made its first appearance in Left 4 Dead as a system that allows to show tutorials and hints while playing the game.
+The Game Instructor is a clientside system in charge of showing instructions on how to play or perform certain actions during gameplay. It made its first appearance in the Left 4 Dead branch of the engine and has been featured in all major Valve titles since then.
 
 ![](https://developer.valvesoftware.com/w/images/e/ef/Hint_017_show_key_bindings.jpg)
-
-These tutorials appear depending on certain situations through events in the code and can change or disappear with the player's actions.
-
-In general the Game Instructor is a good way to guide the player without having to make tutorial maps or stop the fun, with this repository you can implement it in your Source SDK 2013 mod.
 
 ## 👨‍💻 Installation
 
